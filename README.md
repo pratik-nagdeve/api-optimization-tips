@@ -1,4 +1,4 @@
-# api-optimization-tips
+# api-optimization-cheatsheet
 
 ##optimization of api:
 ---------------------------
