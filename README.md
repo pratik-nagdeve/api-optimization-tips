@@ -1,6 +1,6 @@
 # api-optimization-cheatsheet
 
-##optimization of api:
+#optimization of api:
 ---------------------------
     
 1. representation of payload (xml, json eg:serializer- deserialization may cost most)
